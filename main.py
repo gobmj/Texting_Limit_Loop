@@ -2,7 +2,7 @@
 
 import pyautogui as pt
 import time
-
+print("Welcome to the Loop Text Program\n")
 limit = input("Enter Limit to Loop: ")
 message = input("Enter message to Loop: ")
 time.sleep(5)
